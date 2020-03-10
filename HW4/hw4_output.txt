@@ -1,0 +1,40 @@
+What to submit:
+• Log-log plot of the relative error as a function of the frequency.
+
+see "log.png"
+
+• The source code file.
+
+see "data_stream_haixuanguo.ipynb"
+
+• Print the top 10 most frequent IDs with highest exact counts and the corresponding approximate counts. Each line is a triplet, i.e., (ID, approximate count, exact count).
+
+Top 10 most frequent IDs
+ID, approximate count, exact count
+(6, 244670.0, 244629)
+(9, 201996.0, 201955)
+(13, 174050.0, 174015)
+(3, 142894.0, 142857)
+(90, 113021.0, 113006)
+(25, 101991.0, 101951)
+(34, 86193.0, 86158)
+(161, 72129.0, 72113)
+(23, 60770.0, 60742)
+(196, 60390.0, 60353)
+
+
+• Print the top 10 least frequent IDs with lowest exact counts and the corresponding approximate counts. Each line is a triplet, i.e., (ID, approximate count, exact count).
+
+
+Top 10 least frequent IDs
+ID, approximate count, exact count
+(91, 36.0, 1)
+(101, 28.0, 1)
+(105, 35.0, 1)
+(137, 36.0, 1)
+(142, 28.0, 1)
+(164, 35.0, 1)
+(190, 27.0, 1)
+(209, 18.0, 1)
+(225, 18.0, 1)
+(317, 44.0, 1)
